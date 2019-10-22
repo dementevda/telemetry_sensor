@@ -1,3 +1,4 @@
 # telemetry_sensor
 
-connection schema will be added later
+Arduino used with SIM, GPS and thermometer.
+It push telemetry messages to backend by MQTT
